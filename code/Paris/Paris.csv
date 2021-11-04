@@ -1,0 +1,822 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%scale%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+scale
+0.0003891050583657588
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%lines/stations%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+mode:line:station name:position x:position y
+underground:ligne 1A:Grande Arche de la Défense:77:465
+underground:ligne 1A:Esplanade de la Défense:91:461
+underground:ligne 1A:Pont de Neuilly:104:457
+underground:ligne 1A:Les Sablons:118:453
+underground:ligne 1A:Porte Maillot:132:448
+underground:ligne 1A:Argentine:149:442
+underground:ligne 1A:Charles de Gaulle, Etoile:170:436
+underground:ligne 1A:George V:192:428
+underground:ligne 1A:Franklin D. Roosevelt:214:421
+underground:ligne 1A:Champs Elysées, Clémenceau:237:414
+underground:ligne 1A:Concorde:257:407
+underground:ligne 1A:Tuileries:278:400
+underground:ligne 1A:Palais Royal, Musée du Louvre:292:395
+underground:ligne 1A:Louvre, Rivoli:305:392
+underground:ligne 1A:Châtelet:324:386
+underground:ligne 1A:Hôtel de Ville:356:375
+underground:ligne 1A:Saint-Paul, Le Marais:380:367
+underground:ligne 1A:Bastille:403:360
+underground:ligne 1A:Gare de Lyon:428:331
+underground:ligne 1A:Reuilly Diderot:442:339
+underground:ligne 1A:Nation:464:351
+underground:ligne 1A:Porte de Vincennes:496:341
+underground:ligne 1A:Saint-Mandé, Tourelle:511:336
+underground:ligne 1A:Bérault:532:329
+underground:ligne 1A:Château de Vincennes:547:324
+underground:ligne 1B:Château de Vincennes:547:324
+underground:ligne 1B:Bérault:532:329
+underground:ligne 1B:Saint-Mandé, Tourelle:511:336
+underground:ligne 1B:Porte de Vincennes:496:341
+underground:ligne 1B:Nation:464:351
+underground:ligne 1B:Reuilly Diderot:442:339
+underground:ligne 1B:Gare de Lyon:428:331
+underground:ligne 1B:Bastille:403:360
+underground:ligne 1B:Saint-Paul, Le Marais:380:367
+underground:ligne 1B:Hôtel de Ville:356:375
+underground:ligne 1B:Châtelet:324:386
+underground:ligne 1B:Louvre, Rivoli:305:392
+underground:ligne 1B:Palais Royal, Musée du Louvre:292:395
+underground:ligne 1B:Tuileries:278:400
+underground:ligne 1B:Concorde:257:407
+underground:ligne 1B:Champs Elysées, Clémenceau:237:414
+underground:ligne 1B:Franklin D. Roosevelt:214:421
+underground:ligne 1B:George V:192:428
+underground:ligne 1B:Charles de Gaulle, Etoile:170:436
+underground:ligne 1B:Argentine:149:442
+underground:ligne 1B:Porte Maillot:132:448
+underground:ligne 1B:Les Sablons:118:453
+underground:ligne 1B:Pont de Neuilly:104:457
+underground:ligne 1B:Esplanade de la Défense:91:461
+underground:ligne 1B:Grande Arche de la Défense:77:465
+underground:ligne 2A:Porte Dauphine:134:422
+underground:ligne 2A:Victor Hugo:148:418
+underground:ligne 2A:Charles de Gaulle, Etoile:170:437
+underground:ligne 2A:Ternes:188:451
+underground:ligne 2A:Courcelles:202:462
+underground:ligne 2A:Monceau:216:474
+underground:ligne 2A:Villiers:232:486
+underground:ligne 2A:Rome:248:499
+underground:ligne 2A:Place de Clichy:259:508
+underground:ligne 2A:Blanche:278:521
+underground:ligne 2A:Pigalle:303:521
+underground:ligne 2A:Anvers:324:521
+underground:ligne 2A:Barbès Rochechouart:350:521
+underground:ligne 2A:La Chapelle:372:521
+underground:ligne 2A:Stalingrad:408:516
+underground:ligne 2A:Jaures:415:508
+underground:ligne 2A:Colonel Fabien:416:472
+underground:ligne 2A:Belleville:428:456
+underground:ligne 2A:Couronnes:439:442
+underground:ligne 2A:Ménilmontant:448:431
+underground:ligne 2A:Père Lachaise:460:416
+underground:ligne 2A:Philippe-Auguste:471:403
+underground:ligne 2A:Alexandre Dumas:472:386
+underground:ligne 2A:Avron:472:372
+underground:ligne 2A:Nation:466:357
+underground:ligne 2B:Nation:466:357
+underground:ligne 2B:Avron:472:372
+underground:ligne 2B:Alexandre Dumas:472:386
+underground:ligne 2B:Philippe-Auguste:471:403
+underground:ligne 2B:Père Lachaise:460:416
+underground:ligne 2B:Ménilmontant:448:431
+underground:ligne 2B:Couronnes:439:442
+underground:ligne 2B:Belleville:428:456
+underground:ligne 2B:Colonel Fabien:416:472
+underground:ligne 2B:Jaures:415:508
+underground:ligne 2B:Stalingrad:408:516
+underground:ligne 2B:La Chapelle:372:521
+underground:ligne 2B:Barbès Rochechouart:350:521
+underground:ligne 2B:Anvers:324:521
+underground:ligne 2B:Pigalle:303:521
+underground:ligne 2B:Blanche:278:521
+underground:ligne 2B:Place de Clichy:259:508
+underground:ligne 2B:Rome:248:499
+underground:ligne 2B:Villiers:232:486
+underground:ligne 2B:Monceau:216:474
+underground:ligne 2B:Courcelles:202:462
+underground:ligne 2B:Ternes:188:451
+underground:ligne 2B:Charles de Gaulle, Etoile:170:437
+underground:ligne 2B:Victor Hugo:148:418
+underground:ligne 2B:Porte Dauphine:134:422
+underground:ligne 3A:Pont de Levallois, Bécon:125:521
+underground:ligne 3A:Anatole France:138:517
+underground:ligne 3A:Louise Michel:154:512
+underground:ligne 3A:Porte de Champerret:172:506
+underground:ligne 3A:Péreire:187:501
+underground:ligne 3A:Wagram:200:497
+underground:ligne 3A:Malesherbes:213:493
+underground:ligne 3A:Villiers:231:487
+underground:ligne 3A:Europe:242:483
+underground:ligne 3A:Saint-Lazare:258:477
+underground:ligne 3A:Havre Caumartin:268:465
+underground:ligne 3A:Opéra:284:444
+underground:ligne 3A:Quatre Septembre:300:439
+underground:ligne 3A:Bourse:314:434
+underground:ligne 3A:Sentier:327:430
+underground:ligne 3A:Réaumur Sébastopol:351:422
+underground:ligne 3A:Arts et Métiers:373:417
+underground:ligne 3A:Temple:384:427
+underground:ligne 3A:République:397:433
+underground:ligne 3A:Parmentier:421:427
+underground:ligne 3A:Rue Saint-Maur:437:422
+underground:ligne 3A:Père Lachaise:460:416
+underground:ligne 3A:Gambetta:484:429
+underground:ligne 3A:Porte de Bagnolet:499:430
+underground:ligne 3A:Gallieni:527:429
+underground:ligne 3B:Gallieni:527:429
+underground:ligne 3B:Porte de Bagnolet:499:430
+underground:ligne 3B:Gambetta:484:429
+underground:ligne 3B:Père Lachaise:460:416
+underground:ligne 3B:Rue Saint-Maur:437:422
+underground:ligne 3B:Parmentier:421:427
+underground:ligne 3B:République:397:433
+underground:ligne 3B:Temple:384:427
+underground:ligne 3B:Arts et Métiers:373:417
+underground:ligne 3B:Réaumur Sébastopol:351:422
+underground:ligne 3B:Sentier:327:430
+underground:ligne 3B:Bourse:314:434
+underground:ligne 3B:Quatre Septembre:300:439
+underground:ligne 3B:Opéra:284:444
+underground:ligne 3B:Havre Caumartin:268:465
+underground:ligne 3B:Saint-Lazare:258:477
+underground:ligne 3B:Europe:242:483
+underground:ligne 3B:Villiers:231:487
+underground:ligne 3B:Malesherbes:213:493
+underground:ligne 3B:Wagram:200:497
+underground:ligne 3B:Péreire:187:501
+underground:ligne 3B:Porte de Champerret:172:506
+underground:ligne 3B:Louise Michel:154:512
+underground:ligne 3B:Anatole France:138:517
+underground:ligne 3B:Pont de Levallois, Bécon:125:521
+underground:ligne 3bisA:Porte des Lilas:498:474
+underground:ligne 3bisA:Pelleport:489:448
+underground:ligne 3bisA:Saint-Fargeau:494:460
+underground:ligne 3bisA:Gambetta:484:429
+underground:ligne 3bisB:Gambetta:484:429
+underground:ligne 3bisB:Saint-Fargeau:494:460
+underground:ligne 3bisB:Pelleport:489:448
+underground:ligne 3bisB:Porte des Lilas:498:474
+underground:ligne 4A:Porte de Clignancourt:350:583
+underground:ligne 4A:Simplon:350:568
+underground:ligne 4A:Marcadet Poissonniers:350:554
+underground:ligne 4A:Château Rouge:350:532
+underground:ligne 4A:Barbès Rochechouart:350:521
+underground:ligne 4A:Gare du Nord:364:510
+underground:ligne 4A:Gare de l'Est:367:484
+underground:ligne 4A:Château d'Eau:364:462
+underground:ligne 4A:Strasbourg Saint-Denis:359:447
+underground:ligne 4A:Réaumur Sébastopol:351:422
+underground:ligne 4A:Etienne Marcel:347:412
+underground:ligne 4A:Les Halles:337:404
+underground:ligne 4A:Châtelet:324:382
+underground:ligne 4A:Cité:317:366
+underground:ligne 4A:Saint-Michel-Notre Dame:312:349
+underground:ligne 4A:Odéon:300:348
+underground:ligne 4A:Saint-Germain-des-Près:284:352
+underground:ligne 4A:Saint-Sulpice:275:336
+underground:ligne 4A:Saint-Placide:272:324
+underground:ligne 4A:Montparnasse Bienvenue:267:306
+underground:ligne 4A:Vavin:282:300
+underground:ligne 4A:Raspail:292:289
+underground:ligne 4A:Denfert Rochereau:300:277
+underground:ligne 4A:Mouton-Duvernet:295:259
+underground:ligne 4A:Alésia:290:244
+underground:ligne 4A:Porte d'Orléans:285:232
+underground:ligne 4B:Porte d'Orléans:285:232
+underground:ligne 4B:Alésia:290:244
+underground:ligne 4B:Mouton-Duvernet:295:259
+underground:ligne 4B:Denfert Rochereau:300:277
+underground:ligne 4B:Raspail:292:289
+underground:ligne 4B:Vavin:282:300
+underground:ligne 4B:Montparnasse Bienvenue:267:306
+underground:ligne 4B:Saint-Placide:272:324
+underground:ligne 4B:Saint-Sulpice:275:336
+underground:ligne 4B:Saint-Germain-des-Près:284:352
+underground:ligne 4B:Odéon:300:348
+underground:ligne 4B:Saint-Michel-Notre Dame:312:349
+underground:ligne 4B:Cité:317:366
+underground:ligne 4B:Châtelet:324:382
+underground:ligne 4B:Les Halles:337:404
+underground:ligne 4B:Etienne Marcel:347:412
+underground:ligne 4B:Réaumur Sébastopol:351:422
+underground:ligne 4B:Strasbourg Saint-Denis:359:447
+underground:ligne 4B:Château d'Eau:364:462
+underground:ligne 4B:Gare de l'Est:367:484
+underground:ligne 4B:Gare du Nord:364:510
+underground:ligne 4B:Barbès Rochechouart:350:521
+underground:ligne 4B:Château Rouge:350:532
+underground:ligne 4B:Marcadet Poissonniers:350:554
+underground:ligne 4B:Simplon:350:568
+underground:ligne 4B:Porte de Clignancourt:350:583
+underground:ligne 6A:Charles de Gaulle, Etoile:170:435
+underground:ligne 6A:Kléber:166:422
+underground:ligne 6A:Boissière:160:406
+underground:ligne 6A:Trocadéro:157:397
+underground:ligne 6A:Passy:157:373
+underground:ligne 6A:Bir-Hakeim:172:353
+underground:ligne 6A:Dupleix:180:344
+underground:ligne 6A:La Motte Picquet, Grenelle:204:332
+underground:ligne 6A:Cambronne:217:328
+underground:ligne 6A:Sèvres Lecourbe:232:321
+underground:ligne 6A:Pasteur:243:307
+underground:ligne 6A:Montparnasse Bienvenue:263:300
+underground:ligne 6A:Edgar Quinet:276:295
+underground:ligne 6A:Raspail:291:288
+underground:ligne 6A:Denfert Rochereau:302:276
+underground:ligne 6A:Saint-Jacques:321:269
+underground:ligne 6A:Glacière:337:265
+underground:ligne 6A:Corvisart:355:259
+underground:ligne 6A:Place d'Italie:368:254
+underground:ligne 6A:Nationale:389:258
+underground:ligne 6A:Chevaleret:404:269
+underground:ligne 6A:Quai de la Gare:420:282
+underground:ligne 6A:Bercy:437:296
+underground:ligne 6A:Dugommier:448:304
+underground:ligne 6A:Daumesnil:461:316
+underground:ligne 6A:Bel Air:471:324
+underground:ligne 6A:Picpus:473:336
+underground:ligne 6A:Nation:463:349
+underground:ligne 6B:Nation:463:349
+underground:ligne 6B:Picpus:473:336
+underground:ligne 6B:Bel Air:471:324
+underground:ligne 6B:Daumesnil:461:316
+underground:ligne 6B:Dugommier:448:304
+underground:ligne 6B:Bercy:437:296
+underground:ligne 6B:Quai de la Gare:420:282
+underground:ligne 6B:Chevaleret:404:269
+underground:ligne 6B:Nationale:389:258
+underground:ligne 6B:Place d'Italie:368:254
+underground:ligne 6B:Corvisart:355:259
+underground:ligne 6B:Glacière:337:265
+underground:ligne 6B:Saint-Jacques:321:269
+underground:ligne 6B:Denfert Rochereau:302:276
+underground:ligne 6B:Raspail:291:288
+underground:ligne 6B:Edgar Quinet:276:295
+underground:ligne 6B:Montparnasse Bienvenue:263:300
+underground:ligne 6B:Pasteur:243:307
+underground:ligne 6B:Sèvres Lecourbe:232:321
+underground:ligne 6B:Cambronne:217:328
+underground:ligne 6B:La Motte Picquet, Grenelle:204:332
+underground:ligne 6B:Dupleix:180:344
+underground:ligne 6B:Bir-Hakeim:172:353
+underground:ligne 6B:Passy:157:373
+underground:ligne 6B:Trocadéro:157:397
+underground:ligne 6B:Boissière:160:406
+underground:ligne 6B:Kléber:166:422
+underground:ligne 6B:Charles de Gaulle, Etoile:170:435
+underground:ligne 7A1:La Courneuve, 8 Mai 1945:441:619
+underground:ligne 7A1:Fort d'Aubervilliers:438:608
+underground:ligne 7A1:Aubervilliers-Pantin, Quatre Chemins:433:595
+underground:ligne 7A1:Porte de la Villette:429:579
+underground:ligne 7A1:Corentin-Cariou:422:562
+underground:ligne 7A1:Crimée:419:550
+underground:ligne 7A1:Riquet:414:534
+underground:ligne 7A1:Stalingrad:408:517
+underground:ligne 7A1:Louis Blanc:402:497
+underground:ligne 7A1:Château Landon:384:484
+underground:ligne 7A1:Gare de l'Est:367:484
+underground:ligne 7A1:Poissonnière:347:484
+underground:ligne 7A1:Cadet:322:484
+underground:ligne 7A1:Le Peletier:301:484
+underground:ligne 7A1:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 7A1:Opéra:284:444
+underground:ligne 7A1:Pyramides:284:413
+underground:ligne 7A1:Palais Royal, Musée du Louvre:293:396
+underground:ligne 7A1:Pont-Neuf:308:382
+underground:ligne 7A1:Châtelet:322:378
+underground:ligne 7A1:Pont-Marie:349:369
+underground:ligne 7A1:Sully Morland:374:354
+underground:ligne 7A1:Jussieu:367:324
+underground:ligne 7A1:Place Monge:360:303
+underground:ligne 7A1:Censier Daubenton:356:288
+underground:ligne 7A1:Les Gobelins:353:272
+underground:ligne 7A1:Place d'Italie:368:254
+underground:ligne 7A1:Tolbiac:376:242
+underground:ligne 7A1:Maison Blanche:386:232
+underground:ligne 7A1:Le Kremlin-Bicêtre:385:217
+underground:ligne 7A1:Villejuif, Léo Lagrange:385:206
+underground:ligne 7A1:Villejuif, P. Vaillant Couturier:385:195
+underground:ligne 7A1:Villejuif, Louis Aragon:385:184
+underground:ligne 7B1:Villejuif, Louis Aragon:385:184
+underground:ligne 7B1:Villejuif, P. Vaillant Couturier:385:195
+underground:ligne 7B1:Villejuif, Léo Lagrange:385:206
+underground:ligne 7B1:Le Kremlin-Bicêtre:385:217
+underground:ligne 7B1:Maison Blanche:386:232
+underground:ligne 7B1:Tolbiac:376:242
+underground:ligne 7B1:Place d'Italie:368:254
+underground:ligne 7B1:Les Gobelins:353:272
+underground:ligne 7B1:Censier Daubenton:356:288
+underground:ligne 7B1:Place Monge:360:303
+underground:ligne 7B1:Jussieu:367:324
+underground:ligne 7B1:Sully Morland:374:354
+underground:ligne 7B1:Pont-Marie:349:369
+underground:ligne 7B1:Châtelet:322:378
+underground:ligne 7B1:Pont-Neuf:308:382
+underground:ligne 7B1:Palais Royal, Musée du Louvre:293:396
+underground:ligne 7B1:Pyramides:284:413
+underground:ligne 7B1:Opéra:284:444
+underground:ligne 7B1:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 7B1:Le Peletier:301:484
+underground:ligne 7B1:Cadet:322:484
+underground:ligne 7B1:Poissonnière:347:484
+underground:ligne 7B1:Gare de l'Est:367:484
+underground:ligne 7B1:Château Landon:384:484
+underground:ligne 7B1:Louis Blanc:402:497
+underground:ligne 7B1:Stalingrad:408:517
+underground:ligne 7B1:Riquet:414:534
+underground:ligne 7B1:Crimée:419:550
+underground:ligne 7B1:Corentin-Cariou:422:562
+underground:ligne 7B1:Porte de la Villette:429:579
+underground:ligne 7B1:Aubervilliers-Pantin, Quatre Chemins:433:595
+underground:ligne 7B1:Fort d'Aubervilliers:438:608
+underground:ligne 7B1:La Courneuve, 8 Mai 1945:441:619
+underground:ligne 7A2:La Courneuve, 8 Mai 1945:441:619
+underground:ligne 7A2:Fort d'Aubervilliers:438:608
+underground:ligne 7A2:Aubervilliers-Pantin, Quatre Chemins:433:595
+underground:ligne 7A2:Porte de la Villette:429:579
+underground:ligne 7A2:Corentin-Cariou:422:562
+underground:ligne 7A2:Crimée:419:550
+underground:ligne 7A2:Riquet:414:534
+underground:ligne 7A2:Stalingrad:408:517
+underground:ligne 7A2:Louis Blanc:402:497
+underground:ligne 7A2:Château Landon:384:484
+underground:ligne 7A2:Gare de l'Est:367:484
+underground:ligne 7A2:Poissonnière:347:484
+underground:ligne 7A2:Cadet:322:484
+underground:ligne 7A2:Le Peletier:301:484
+underground:ligne 7A2:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 7A2:Opéra:284:444
+underground:ligne 7A2:Pyramides:284:413
+underground:ligne 7A2:Palais Royal, Musée du Louvre:293:396
+underground:ligne 7A2:Pont-Neuf:308:382
+underground:ligne 7A2:Châtelet:322:378
+underground:ligne 7A2:Pont-Marie:349:369
+underground:ligne 7A2:Sully Morland:374:354
+underground:ligne 7A2:Jussieu:367:324
+underground:ligne 7A2:Place Monge:360:303
+underground:ligne 7A2:Censier Daubenton:356:288
+underground:ligne 7A2:Les Gobelins:353:272
+underground:ligne 7A2:Place d'Italie:368:254
+underground:ligne 7A2:Tolbiac:376:242
+underground:ligne 7A2:Maison Blanche:386:232
+underground:ligne 7A2:Porte d'Italie:394:223
+underground:ligne 7A2:Porte de Choisy:405:232
+underground:ligne 7A2:Porte d'Ivry:419:243
+underground:ligne 7A2:Pierre et Marie Curie:430:234
+underground:ligne 7A2:Mairie d'Ivry:439:223
+underground:ligne 7B2:Mairie d'Ivry:439:223
+underground:ligne 7B2:Pierre et Marie Curie:430:234
+underground:ligne 7B2:Porte d'Ivry:419:243
+underground:ligne 7B2:Porte de Choisy:405:232
+underground:ligne 7B2:Porte d'Italie:394:223
+underground:ligne 7B2:Maison Blanche:386:232
+underground:ligne 7B2:Tolbiac:376:242
+underground:ligne 7B2:Place d'Italie:368:254
+underground:ligne 7B2:Les Gobelins:353:272
+underground:ligne 7B2:Censier Daubenton:356:288
+underground:ligne 7B2:Place Monge:360:303
+underground:ligne 7B2:Jussieu:367:324
+underground:ligne 7B2:Sully Morland:374:354
+underground:ligne 7B2:Pont-Marie:349:369
+underground:ligne 7B2:Châtelet:322:378
+underground:ligne 7B2:Pont-Neuf:308:382
+underground:ligne 7B2:Palais Royal, Musée du Louvre:293:396
+underground:ligne 7B2:Pyramides:284:413
+underground:ligne 7B2:Opéra:284:444
+underground:ligne 7B2:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 7B2:Le Peletier:301:484
+underground:ligne 7B2:Cadet:322:484
+underground:ligne 7B2:Poissonnière:347:484
+underground:ligne 7B2:Gare de l'Est:367:484
+underground:ligne 7B2:Château Landon:384:484
+underground:ligne 7B2:Louis Blanc:402:497
+underground:ligne 7B2:Stalingrad:408:517
+underground:ligne 7B2:Riquet:414:534
+underground:ligne 7B2:Crimée:419:550
+underground:ligne 7B2:Corentin-Cariou:422:562
+underground:ligne 7B2:Porte de la Villette:429:579
+underground:ligne 7B2:Aubervilliers-Pantin, Quatre Chemins:433:595
+underground:ligne 7B2:Fort d'Aubervilliers:438:608
+underground:ligne 7B2:La Courneuve, 8 Mai 1945:441:619
+underground:ligne 7bisA:Louis Blanc:402:497
+underground:ligne 7bisA:Jaures:416:508
+underground:ligne 7bisA:Bolivar:426:498
+underground:ligne 7bisA:Buttes Chaumont:435:492
+underground:ligne 7bisA:Botzaris:457:492
+underground:ligne 7bisA:Place des Fêtes:467:482
+underground:ligne 7bisB:Pré-Saint-Gervais:484:496
+underground:ligne 7bisB:Danube:468:501
+underground:ligne 7bisB:Botzaris:457:492
+underground:ligne 7bisB:Buttes Chaumont:435:492
+underground:ligne 7bisB:Bolivar:426:498
+underground:ligne 7bisB:Jaures:416:508
+underground:ligne 7bisB:Louis Blanc:402:497
+underground:ligne 8A:Place Balard:162:271
+underground:ligne 8A:Lourmel:173:279
+underground:ligne 8A:Boucicaut:185:289
+underground:ligne 8A:Félix Faure:192:300
+underground:ligne 8A:Commerce:196:311
+underground:ligne 8A:La Motte Picquet, Grenelle:203:333
+underground:ligne 8A:Ecole Militaire:209:350
+underground:ligne 8A:La Tour-Maubourg:220:373
+underground:ligne 8A:Invalides:237:387
+underground:ligne 8A:Concorde:256:407
+underground:ligne 8A:Madeleine:257:423
+underground:ligne 8A:Opéra:284:444
+underground:ligne 8A:Richelieu Drouot:307:462
+underground:ligne 8A:Rue Montmartre, Grands Boulevards:324:457
+underground:ligne 8A:Bonne Nouvelle:339:452
+underground:ligne 8A:Strasbourg Saint-Denis:359:445
+underground:ligne 8A:République:395:432
+underground:ligne 8A:Filles du Calvaire:397:413
+underground:ligne 8A:Saint-Sébastien-Froissart:397:394
+underground:ligne 8A:Chemin Vert:397:383
+underground:ligne 8A:Bastille:403:362
+underground:ligne 8A:Ledru Rollin:415:359
+underground:ligne 8A:Faidherbe-Chaligny:432:352
+underground:ligne 8A:Reuilly Diderot:442:339
+underground:ligne 8A:Montgallet:452:328
+underground:ligne 8A:Daumesnil:461:316
+underground:ligne 8A:Michel Bizot:468:308
+underground:ligne 8A:Porte Dorée:478:291
+underground:ligne 8A:Porte de Charenton:470:285
+underground:ligne 8A:Liberté:475:274
+underground:ligne 8A:Charenton-Ecoles:483:264
+underground:ligne 8A:Ecole Vétérinaire de Maisons-Alfort:495:250
+underground:ligne 8A:Maisons-Alfort, Stade:503:240
+underground:ligne 8A:Maisons-Alfort les Juilliottes:509:232
+underground:ligne 8A:Créteil-l'Echat, Hôpital Henri Mondor:516:224
+underground:ligne 8A:Créteil-Université:522:216
+underground:ligne 8A:Créteil-Préfecture:529:207
+underground:ligne 8B:Créteil-Préfecture:529:207
+underground:ligne 8B:Créteil-Université:522:216
+underground:ligne 8B:Créteil-l'Echat, Hôpital Henri Mondor:516:224
+underground:ligne 8B:Maisons-Alfort les Juilliottes:509:232
+underground:ligne 8B:Maisons-Alfort, Stade:503:240
+underground:ligne 8B:Ecole Vétérinaire de Maisons-Alfort:495:250
+underground:ligne 8B:Charenton-Ecoles:483:264
+underground:ligne 8B:Liberté:475:274
+underground:ligne 8B:Porte de Charenton:470:285
+underground:ligne 8B:Porte Dorée:478:291
+underground:ligne 8B:Michel Bizot:468:308
+underground:ligne 8B:Daumesnil:461:316
+underground:ligne 8B:Montgallet:452:328
+underground:ligne 8B:Reuilly Diderot:442:339
+underground:ligne 8B:Faidherbe-Chaligny:432:352
+underground:ligne 8B:Ledru Rollin:415:359
+underground:ligne 8B:Bastille:403:362
+underground:ligne 8B:Chemin Vert:397:383
+underground:ligne 8B:Saint-Sébastien-Froissart:397:394
+underground:ligne 8B:Filles du Calvaire:397:413
+underground:ligne 8B:République:395:432
+underground:ligne 8B:Strasbourg Saint-Denis:359:445
+underground:ligne 8B:Bonne Nouvelle:339:452
+underground:ligne 8B:Rue Montmartre, Grands Boulevards:324:457
+underground:ligne 8B:Richelieu Drouot:307:462
+underground:ligne 8B:Opéra:284:444
+underground:ligne 8B:Madeleine:257:423
+underground:ligne 8B:Concorde:256:407
+underground:ligne 8B:Invalides:237:387
+underground:ligne 8B:La Tour-Maubourg:220:373
+underground:ligne 8B:Ecole Militaire:209:350
+underground:ligne 8B:La Motte Picquet, Grenelle:203:333
+underground:ligne 8B:Commerce:196:311
+underground:ligne 8B:Félix Faure:192:300
+underground:ligne 8B:Boucicaut:185:289
+underground:ligne 8B:Lourmel:173:279
+underground:ligne 8B:Place Balard:162:271
+underground:ligne 9A:Pont de Sèvres:66:262
+underground:ligne 9A:Billancourt:77:270
+underground:ligne 9A:Marcel Sembat:90:280
+underground:ligne 9A:Porte de Saint-Cloud:101:290
+underground:ligne 9A:Exelmans:112:301
+underground:ligne 9A:Michel Ange Molitor:119:324
+underground:ligne 9A:Michel Ange Auteuil:123:334
+underground:ligne 9A:Jasmin:129:352
+underground:ligne 9A:Ranelagh:133:366
+underground:ligne 9A:La Muette:139:384
+underground:ligne 9A:Rue de la Pompe:144:397
+underground:ligne 9A:Trocadéro:157:397
+underground:ligne 9A:Iéna:175:397
+underground:ligne 9A:Alma Marceau:193:404
+underground:ligne 9A:Franklin D. Roosevelt:214:421
+underground:ligne 9A:Saint-Philippe du Roule:225:430
+underground:ligne 9A:Miromesnil:237:440
+underground:ligne 9A:Saint-Augustin:254:452
+underground:ligne 9A:Havre Caumartin:268:465
+underground:ligne 9A:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 9A:Richelieu Drouot:307:464
+underground:ligne 9A:Rue Montmartre, Grands Boulevards:325:459
+underground:ligne 9A:Bonne Nouvelle:340:454
+underground:ligne 9A:Strasbourg Saint-Denis:359:447
+underground:ligne 9A:République:399:435
+underground:ligne 9A:Oberkampf:419:411
+underground:ligne 9A:Saint-Ambroise:428:401
+underground:ligne 9A:Voltaire:435:393
+underground:ligne 9A:Charonne:442:383
+underground:ligne 9A:Rue des Boulets:449:373
+underground:ligne 9A:Nation:466:357
+underground:ligne 9A:Buzenval:477:365
+underground:ligne 9A:Maraîchers:490:375
+underground:ligne 9A:Porte de Montreuil:498:382
+underground:ligne 9A:Robespierre:509:390
+underground:ligne 9A:Croix de Chavaux:523:402
+underground:ligne 9A:Mairie de Montreuil:537:412
+underground:ligne 9B:Mairie de Montreuil:537:412
+underground:ligne 9B:Croix de Chavaux:523:402
+underground:ligne 9B:Robespierre:509:390
+underground:ligne 9B:Porte de Montreuil:498:382
+underground:ligne 9B:Maraîchers:490:375
+underground:ligne 9B:Buzenval:477:365
+underground:ligne 9B:Nation:466:357
+underground:ligne 9B:Rue des Boulets:449:373
+underground:ligne 9B:Charonne:442:383
+underground:ligne 9B:Voltaire:435:393
+underground:ligne 9B:Saint-Ambroise:428:401
+underground:ligne 9B:Oberkampf:419:411
+underground:ligne 9B:République:399:435
+underground:ligne 9B:Strasbourg Saint-Denis:359:447
+underground:ligne 9B:Bonne Nouvelle:340:454
+underground:ligne 9B:Rue Montmartre, Grands Boulevards:325:459
+underground:ligne 9B:Richelieu Drouot:307:464
+underground:ligne 9B:Chaussée d'Antin, La Fayette:284:472
+underground:ligne 9B:Havre Caumartin:268:465
+underground:ligne 9B:Saint-Augustin:254:452
+underground:ligne 9B:Miromesnil:237:440
+underground:ligne 9B:Saint-Philippe du Roule:225:430
+underground:ligne 9B:Franklin D. Roosevelt:214:421
+underground:ligne 9B:Alma Marceau:193:404
+underground:ligne 9B:Iéna:175:397
+underground:ligne 9B:Trocadéro:157:397
+underground:ligne 9B:Rue de la Pompe:144:397
+underground:ligne 9B:La Muette:139:384
+underground:ligne 9B:Ranelagh:133:366
+underground:ligne 9B:Jasmin:129:352
+underground:ligne 9B:Michel Ange Auteuil:123:334
+underground:ligne 9B:Michel Ange Molitor:119:324
+underground:ligne 9B:Exelmans:112:301
+underground:ligne 9B:Porte de Saint-Cloud:101:290
+underground:ligne 9B:Marcel Sembat:90:280
+underground:ligne 9B:Billancourt:77:270
+underground:ligne 9B:Pont de Sèvres:66:262
+underground:ligne 10A:Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube:67:307
+underground:ligne 10A:Boulogne, Jean Jaures:79:316
+underground:ligne 10A:Michel Ange Molitor:119:324
+underground:ligne 10A:Chardon Lagache:134:318
+underground:ligne 10A:Mirabeau:141:321
+underground:ligne 10A:Javel-André Citröen:158:326
+underground:ligne 10A:Charles Michels:178:326
+underground:ligne 10A:Avenue Emile Zola:194:326
+underground:ligne 10A:La Motte Picquet, Grenelle:205:332
+underground:ligne 10A:Ségur:217:336
+underground:ligne 10A:Duroc:238:336
+underground:ligne 10A:Vaneau:248:343
+underground:ligne 10A:Sèvres Babylone:260:347
+underground:ligne 10A:Mabillon:288:347
+underground:ligne 10A:Odéon:300:347
+underground:ligne 10A:Cluny, La Sorbonne:319:340
+underground:ligne 10A:Maubert Mutualité:335:334
+underground:ligne 10A:Cardinal Lemoine:350:329
+underground:ligne 10A:Jussieu:367:324
+underground:ligne 10A:Gare d'Austerlitz:389:317
+underground:ligne 10B:Gare d'Austerlitz:389:317
+underground:ligne 10B:Jussieu:367:324
+underground:ligne 10B:Cardinal Lemoine:350:329
+underground:ligne 10B:Maubert Mutualité:335:334
+underground:ligne 10B:Cluny, La Sorbonne:319:340
+underground:ligne 10B:Odéon:300:347
+underground:ligne 10B:Mabillon:288:347
+underground:ligne 10B:Sèvres Babylone:260:347
+underground:ligne 10B:Vaneau:248:343
+underground:ligne 10B:Duroc:238:336
+underground:ligne 10B:Ségur:217:336
+underground:ligne 10B:La Motte Picquet, Grenelle:205:332
+underground:ligne 10B:Avenue Emile Zola:194:326
+underground:ligne 10B:Charles Michels:178:326
+underground:ligne 10B:Javel-André Citröen:158:326
+underground:ligne 10B:Eglise d'Auteuil:137:330
+underground:ligne 10B:Michel Ange Auteuil:123:334
+underground:ligne 10B:Porte d'Auteuil:105:336
+underground:ligne 10B:Boulogne, Jean Jaures:79:316
+underground:ligne 10B:Boulogne, Pont de Saint-Cloud, Rond Point Rhin et Danube:67:307
+underground:ligne 11A:Châtelet:324:383
+underground:ligne 11A:Hôtel de Ville:356:375
+underground:ligne 11A:Rambuteau:365:402
+underground:ligne 11A:Arts et Métiers:374:414
+underground:ligne 11A:République:398:433
+underground:ligne 11A:Goncourt:413:445
+underground:ligne 11A:Belleville:428:456
+underground:ligne 11A:Pyrénées:439:466
+underground:ligne 11A:Jourdain:449:474
+underground:ligne 11A:Place des Fêtes:467:481
+underground:ligne 11A:Télégraphe:476:480
+underground:ligne 11A:Porte des Lilas:498:474
+underground:ligne 11A:Mairie des Lilas:518:474
+underground:ligne 11B:Mairie des Lilas:518:474
+underground:ligne 11B:Porte des Lilas:498:474
+underground:ligne 11B:Télégraphe:476:480
+underground:ligne 11B:Place des Fêtes:467:481
+underground:ligne 11B:Jourdain:449:474
+underground:ligne 11B:Pyrénées:439:466
+underground:ligne 11B:Belleville:428:456
+underground:ligne 11B:Goncourt:413:445
+underground:ligne 11B:République:398:433
+underground:ligne 11B:Arts et Métiers:374:414
+underground:ligne 11B:Rambuteau:365:402
+underground:ligne 11B:Hôtel de Ville:356:375
+underground:ligne 11B:Châtelet:324:383
+underground:ligne 12A:Porte de la Chapelle:384:582
+underground:ligne 12A:Marx Dormoy:376:557
+underground:ligne 12A:Marcadet Poissonniers:350:554
+underground:ligne 12A:Jules Joffrin:331:554
+underground:ligne 12A:Lamarck Caulaincourt:314:553
+underground:ligne 12A:Abbesses:308:536
+underground:ligne 12A:Pigalle:303:521
+underground:ligne 12A:Saint-Georges:300:511
+underground:ligne 12A:Notre Dame de Lorette:289:502
+underground:ligne 12A:Trinité d'Estienne d'Orves:280:495
+underground:ligne 12A:Saint-Lazare:259:478
+underground:ligne 12A:Madeleine:258:422
+underground:ligne 12A:Concorde:258:406
+underground:ligne 12A:Assemblée Nationale:258:382
+underground:ligne 12A:Solférino:258:371
+underground:ligne 12A:Rue du Bac:258:358
+underground:ligne 12A:Sèvres Babylone:260:347
+underground:ligne 12A:Rennes:271:333
+underground:ligne 12A:Notre-Dame-des-Champs:278:320
+underground:ligne 12A:Montparnasse Bienvenue:266:307
+underground:ligne 12A:Falguière:253:312
+underground:ligne 12A:Pasteur:243:307
+underground:ligne 12A:Volontaires:231:297
+underground:ligne 12A:Vaugirard:217:285
+underground:ligne 12A:Convention:202:273
+underground:ligne 12A:Porte de Versailles:197:258
+underground:ligne 12A:Corentin Celton:192:242
+underground:ligne 12A:Mairie d'Issy:187:226
+underground:ligne 12B:Mairie d'Issy:187:226
+underground:ligne 12B:Corentin Celton:192:242
+underground:ligne 12B:Porte de Versailles:197:258
+underground:ligne 12B:Convention:202:273
+underground:ligne 12B:Vaugirard:217:285
+underground:ligne 12B:Volontaires:231:297
+underground:ligne 12B:Pasteur:243:307
+underground:ligne 12B:Falguière:253:312
+underground:ligne 12B:Montparnasse Bienvenue:266:307
+underground:ligne 12B:Notre-Dame-des-Champs:278:320
+underground:ligne 12B:Rennes:271:333
+underground:ligne 12B:Sèvres Babylone:260:347
+underground:ligne 12B:Rue du Bac:258:358
+underground:ligne 12B:Solférino:258:371
+underground:ligne 12B:Assemblée Nationale:258:382
+underground:ligne 12B:Concorde:258:406
+underground:ligne 12B:Madeleine:258:422
+underground:ligne 12B:Saint-Lazare:259:478
+underground:ligne 12B:Trinité d'Estienne d'Orves:280:495
+underground:ligne 12B:Notre Dame de Lorette:289:502
+underground:ligne 12B:Saint-Georges:300:511
+underground:ligne 12B:Pigalle:303:521
+underground:ligne 12B:Abbesses:308:536
+underground:ligne 12B:Lamarck Caulaincourt:314:553
+underground:ligne 12B:Jules Joffrin:331:554
+underground:ligne 12B:Marcadet Poissonniers:350:554
+underground:ligne 12B:Marx Dormoy:376:557
+underground:ligne 12B:Porte de la Chapelle:384:582
+underground:ligne 13A1:Asnières Gennevilliers Les courtilles:175:634
+underground:ligne 13A1:Les Agnettes:188:620
+underground:ligne 13A1:Gabriel Péri, Asnières-Gennevilliers:198:607
+underground:ligne 13A1:Mairie de Clichy:215:585
+underground:ligne 13A1:Porte de Clichy:238:558
+underground:ligne 13A1:Brochant:249:544
+underground:ligne 13A1:La Fourche:259:533
+underground:ligne 13A1:Place de Clichy:259:508
+underground:ligne 13A1:Liège:258:497
+underground:ligne 13A1:Saint-Lazare:258:478
+underground:ligne 13A1:Miromesnil:237:440
+underground:ligne 13A1:Champs Elysées, Clémenceau:237:413
+underground:ligne 13A1:Invalides:237:389
+underground:ligne 13A1:Varenne:237:368
+underground:ligne 13A1:Saint-Francois Xavier:237:359
+underground:ligne 13A1:Duroc:238:336
+underground:ligne 13A1:Montparnasse Bienvenue:263:300
+underground:ligne 13A1:Gaité:259:282
+underground:ligne 13A1:Pernety:254:269
+underground:ligne 13A1:Plaisance:249:255
+underground:ligne 13A1:Porte de Vanves:245:242
+underground:ligne 13A1:Malakoff-Plateau de Vanves:239:225
+underground:ligne 13A1:Malakoff-Rue Etienne Dolet:236:212
+underground:ligne 13A1:Châtillon-Montrouge:229:193
+underground:ligne 13B1:Châtillon-Montrouge:229:193
+underground:ligne 13B1:Malakoff-Rue Etienne Dolet:236:212
+underground:ligne 13B1:Malakoff-Plateau de Vanves:239:225
+underground:ligne 13B1:Porte de Vanves:245:242
+underground:ligne 13B1:Plaisance:249:255
+underground:ligne 13B1:Pernety:254:269
+underground:ligne 13B1:Gaité:259:282
+underground:ligne 13B1:Montparnasse Bienvenue:263:300
+underground:ligne 13B1:Duroc:238:336
+underground:ligne 13B1:Saint-Francois Xavier:237:359
+underground:ligne 13B1:Varenne:237:368
+underground:ligne 13B1:Invalides:237:389
+underground:ligne 13B1:Champs Elysées, Clémenceau:237:413
+underground:ligne 13B1:Miromesnil:237:440
+underground:ligne 13B1:Saint-Lazare:258:478
+underground:ligne 13B1:Liège:258:497
+underground:ligne 13B1:Place de Clichy:259:508
+underground:ligne 13B1:La Fourche:259:533
+underground:ligne 13B1:Brochant:249:544
+underground:ligne 13B1:Porte de Clichy:238:558
+underground:ligne 13B1:Mairie de Clichy:215:585
+underground:ligne 13B1:Gabriel Péri, Asnières-Gennevilliers:198:607
+underground:ligne 13B1:Les Agnettes:188:620
+underground:ligne 13B1:Asnières Gennevilliers Les courtilles:175:634
+underground:ligne 13A2:Saint-Denis-Université:365:664
+underground:ligne 13A2:Basilique de Saint-Denis:343:646
+underground:ligne 13A2:Saint-Denis-Porte de Paris:332:637
+underground:ligne 13A2:Carrefour Pleyel:314:622
+underground:ligne 13A2:Mairie de Saint-Ouen:294:606
+underground:ligne 13A2:Garibaldi:281:596
+underground:ligne 13A2:Porte de Saint-Ouen:275:583
+underground:ligne 13A2:Guy Möquet:267:560
+underground:ligne 13A2:La Fourche:259:533
+underground:ligne 13A2:Place de Clichy:259:508
+underground:ligne 13A2:Liège:258:497
+underground:ligne 13A2:Saint-Lazare:258:478
+underground:ligne 13A2:Miromesnil:237:440
+underground:ligne 13A2:Champs Elysées, Clémenceau:237:413
+underground:ligne 13A2:Invalides:237:389
+underground:ligne 13A2:Varenne:237:368
+underground:ligne 13A2:Saint-Francois Xavier:237:359
+underground:ligne 13A2:Duroc:238:336
+underground:ligne 13A2:Montparnasse Bienvenue:263:300
+underground:ligne 13A2:Gaité:259:282
+underground:ligne 13A2:Pernety:254:269
+underground:ligne 13A2:Plaisance:249:255
+underground:ligne 13A2:Porte de Vanves:245:242
+underground:ligne 13A2:Malakoff-Plateau de Vanves:239:225
+underground:ligne 13A2:Malakoff-Rue Etienne Dolet:236:212
+underground:ligne 13A2:Châtillon-Montrouge:229:193
+underground:ligne 13B2:Châtillon-Montrouge:229:193
+underground:ligne 13B2:Malakoff-Rue Etienne Dolet:236:212
+underground:ligne 13B2:Malakoff-Plateau de Vanves:239:225
+underground:ligne 13B2:Porte de Vanves:245:242
+underground:ligne 13B2:Plaisance:249:255
+underground:ligne 13B2:Pernety:254:269
+underground:ligne 13B2:Gaité:259:282
+underground:ligne 13B2:Montparnasse Bienvenue:263:300
+underground:ligne 13B2:Duroc:238:336
+underground:ligne 13B2:Saint-Francois Xavier:237:359
+underground:ligne 13B2:Varenne:237:368
+underground:ligne 13B2:Invalides:237:389
+underground:ligne 13B2:Champs Elysées, Clémenceau:237:413
+underground:ligne 13B2:Miromesnil:237:440
+underground:ligne 13B2:Saint-Lazare:258:478
+underground:ligne 13B2:Liège:258:497
+underground:ligne 13B2:Place de Clichy:259:508
+underground:ligne 13B2:La Fourche:259:533
+underground:ligne 13B2:Guy Möquet:267:560
+underground:ligne 13B2:Porte de Saint-Ouen:275:583
+underground:ligne 13B2:Garibaldi:281:596
+underground:ligne 13B2:Mairie de Saint-Ouen:294:606
+underground:ligne 13B2:Carrefour Pleyel:314:622
+underground:ligne 13B2:Saint-Denis-Porte de Paris:332:637
+underground:ligne 13B2:Basilique de Saint-Denis:343:646
+underground:ligne 13B2:Saint-Denis-Université:365:664
+underground:ligne 14A:Saint-Lazare:257:476
+underground:ligne 14A:Madeleine:258:422
+underground:ligne 14A:Pyramides:284:413
+underground:ligne 14A:Châtelet:323:380
+underground:ligne 14A:Gare de Lyon:418:321
+underground:ligne 14A:Bercy:437:296
+underground:ligne 14A:Cour Saint-Emilion:439:281
+underground:ligne 14A:Bibliothèque François Mitterand:424:268
+underground:ligne 14A:Olympiades:410:251
+underground:ligne 14B:Olympiades:410:251
+underground:ligne 14B:Bibliothèque François Mitterand:424:268
+underground:ligne 14B:Cour Saint-Emilion:439:281
+underground:ligne 14B:Bercy:437:296
+underground:ligne 14B:Gare de Lyon:418:321
+underground:ligne 14B:Châtelet:323:380
+underground:ligne 14B:Pyramides:284:413
+underground:ligne 14B:Madeleine:258:422
+underground:ligne 14B:Saint-Lazare:257:476
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%special connections%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+line 1:station name 1:line 2:station name 2
+ligne 2A:La Chapelle:ligne 4A:Gare du Nord
+ligne 2A:La Chapelle:ligne 4B:Gare du Nord
+ligne 2A:La Chapelle:ligne 5A:Gare du Nord
+ligne 2A:La Chapelle:ligne 5B:Gare du Nord
+ligne 2B:La Chapelle:ligne 4A:Gare du Nord
+ligne 2B:La Chapelle:ligne 4B:Gare du Nord
+ligne 2B:La Chapelle:ligne 5A:Gare du Nord
+ligne 2B:La Chapelle:ligne 5B:Gare du Nord
